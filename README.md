@@ -1,4 +1,5 @@
 # my-first-github-repository
+
 here is my first github repository
 
-README file committed by GitHub. This file was modified locally
+This file was modified manually bla bla bla bla
