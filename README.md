@@ -9,3 +9,5 @@ New line has added locally
 This line was added in feature-2 branch
 
 Another update in feature-2 branch
+
+Edit in the feature-2 branch
